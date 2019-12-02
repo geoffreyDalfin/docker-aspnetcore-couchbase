@@ -1,0 +1,100 @@
+2019-12-02T14:05:25.699632+00:00 INFO ---------- Opening logfile: /opt/couchbase/var/lib/couchbase/logs/memcached.log.000010.txt
+2019-12-02T14:05:25.861668+00:00 INFO Couchbase version 6.0.3-2895 starting.
+2019-12-02T14:05:25.862216+00:00 INFO Using SLA configuration: {"version":1,"comment":"Current MCBP SLA configuration","default":{"slow":"500 ms"},"DELETE_BUCKET":{"slow":"10 s"},"COMPACT_DB":{"slow":"1800 s"},"SEQNO_PERSISTENCE":{"slow":"30 s"}}
+2019-12-02T14:05:25.862226+00:00 INFO Enable standard input listener
+2019-12-02T14:05:25.862341+00:00 INFO NUMA: NOT setting memory allocation policy to 'interleave' - request failed: Operation not permitted
+2019-12-02T14:05:25.864351+00:00 INFO Loading RBAC configuration from [/opt/couchbase/var/lib/couchbase/config/memcached.rbac]
+2019-12-02T14:05:25.865922+00:00 INFO Loading error maps from [/opt/couchbase/etc/couchbase/kv/error_maps]
+2019-12-02T14:05:25.873502+00:00 INFO Audit descriptor 20480 changed from: disabled to: enabled
+2019-12-02T14:05:25.873515+00:00 INFO Audit descriptor 20481 changed from: disabled to: enabled
+2019-12-02T14:05:25.873524+00:00 INFO Audit descriptor 20482 changed from: disabled to: enabled
+2019-12-02T14:05:25.873533+00:00 INFO Audit descriptor 20483 changed from: disabled to: enabled
+2019-12-02T14:05:25.873541+00:00 INFO Audit descriptor 20484 changed from: disabled to: enabled
+2019-12-02T14:05:25.873550+00:00 INFO Audit descriptor 20486 changed from: disabled to: enabled
+2019-12-02T14:05:25.873559+00:00 INFO Audit descriptor 20487 changed from: disabled to: enabled
+2019-12-02T14:05:25.873568+00:00 INFO Audit descriptor 20492 changed from: disabled to: enabled
+2019-12-02T14:05:25.953556+00:00 INFO Create bucket "<internal>" by using "nobucket.so"
+2019-12-02T14:05:25.957668+00:00 INFO Enable management port(s)
+2019-12-02T14:05:25.957678+00:00 INFO Enable user port(s)
+2019-12-02T14:05:25.957885+00:00 INFO 10 Listen on 0.0.0.0:11210
+2019-12-02T14:05:25.957950+00:00 INFO 11 Listen on [::]:11210
+2019-12-02T14:05:25.958048+00:00 INFO 12 Listen on 0.0.0.0:11209
+2019-12-02T14:05:25.958094+00:00 INFO 13 Listen on [::]:11209
+2019-12-02T14:05:25.958169+00:00 INFO 14 Listen on 0.0.0.0:11207
+2019-12-02T14:05:25.958216+00:00 INFO 15 Listen on [::]:11207
+2019-12-02T14:05:25.960382+00:00 INFO Initialization complete. Accepting clients.
+2019-12-02T14:05:26.320895+00:00 INFO 42: Client 127.0.0.1:37079 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:26.386174+00:00 INFO 43: Client 127.0.0.1:58813 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:26.396658+00:00 INFO 43 Create bucket [jul]
+2019-12-02T14:05:26.397391+00:00 INFO Create bucket "jul" by using "ep.so"
+2019-12-02T14:05:26.397508+00:00 INFO (jul) EPEngine::initialize: using configuration:"max_size=262144000;dbname=/opt/couchbase/var/lib/couchbase/data/jul;backend=couchdb;couch_bucket=jul;max_vbuckets=1024;alog_path=/opt/couchbase/var/lib/couchbase/data/jul/access.log;data_traffic_enabled=false;max_num_workers=3;uuid=b28ab183dad93dc8a0ad719e58b99b7d;conflict_resolution_type=seqno;bucket_type=persistent;item_eviction_policy=value_only;max_ttl=0;ht_locks=47;compression_mode=passive;failpartialwarmup=false"
+2019-12-02T14:05:26.471370+00:00 INFO 44: Client 127.0.0.1:47925 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:26.471713+00:00 INFO 44: Loading RBAC configuration from [/opt/couchbase/var/lib/couchbase/config/memcached.rbac] [ 127.0.0.1:47925 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2019-12-02T14:05:26.474287+00:00 INFO 44: RBAC configuration updated [ 127.0.0.1:47925 - 127.0.0.1:11209 (<ud>@ns_server</ud>) ]
+2019-12-02T14:05:26.642822+00:00 INFO 44: Client 127.0.0.1:48071 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:26.752541+00:00 INFO 45: Client 127.0.0.1:57955 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:26.802868+00:00 INFO 46: Client 127.0.0.1:51346 authenticated as <ud>@fts</ud>
+2019-12-02T14:05:26.804014+00:00 INFO 49: Client 127.0.0.1:51352 authenticated as <ud>@eventing</ud>
+2019-12-02T14:05:26.804186+00:00 INFO 48: Client 127.0.0.1:51350 authenticated as <ud>@fts</ud>
+2019-12-02T14:05:26.804651+00:00 INFO 47: Client 127.0.0.1:51348 authenticated as <ud>@cbas</ud>
+2019-12-02T14:05:26.806186+00:00 INFO 50: Client 127.0.0.1:51354 authenticated as <ud>@eventing</ud>
+2019-12-02T14:05:26.808733+00:00 INFO 52: Client 127.0.0.1:51358 authenticated as <ud>@fts</ud>
+2019-12-02T14:05:26.809245+00:00 INFO 51: Client 127.0.0.1:51356 authenticated as <ud>@eventing</ud>
+2019-12-02T14:05:26.811096+00:00 INFO 53: Client 127.0.0.1:51360 authenticated as <ud>@eventing</ud>
+2019-12-02T14:05:26.813119+00:00 INFO 44: Client 127.0.0.1:51364 authenticated as <ud>@eventing</ud>
+2019-12-02T14:05:26.814691+00:00 INFO 54: Client 127.0.0.1:51362 authenticated as <ud>@fts</ud>
+2019-12-02T14:05:26.819150+00:00 INFO 56: Client 127.0.0.1:51366 authenticated as <ud>@cbas</ud>
+2019-12-02T14:05:26.822797+00:00 INFO 57: Client 127.0.0.1:51372 authenticated as <ud>@fts</ud>
+2019-12-02T14:05:26.823067+00:00 INFO 58: Client 127.0.0.1:51374 authenticated as <ud>@cbas</ud>
+2019-12-02T14:05:26.828181+00:00 INFO 55: Client 127.0.0.1:51376 authenticated as <ud>@cbas</ud>
+2019-12-02T14:05:26.835029+00:00 INFO 60: Client 127.0.0.1:51378 authenticated as <ud>@cbas</ud>
+2019-12-02T14:05:26.979118+00:00 INFO 61: Client 127.0.0.1:51410 authenticated as <ud>@cbq-engine</ud>
+2019-12-02T14:05:26.982178+00:00 INFO 62: Client 127.0.0.1:51412 authenticated as <ud>@cbq-engine</ud>
+2019-12-02T14:05:26.988711+00:00 INFO 63: Client 127.0.0.1:51414 authenticated as <ud>@cbq-engine</ud>
+2019-12-02T14:05:27.056547+00:00 INFO 64: Client 127.0.0.1:51416 authenticated as <ud>@cbq-engine</ud>
+2019-12-02T14:05:27.058698+00:00 INFO 65: Client 127.0.0.1:51432 authenticated as <ud>@cbq-engine</ud>
+2019-12-02T14:05:27.151049+00:00 INFO 66: Client 127.0.0.1:55501 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:27.655803+00:00 INFO 66: Client 127.0.0.1:44855 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:28.157976+00:00 INFO 66: Client 127.0.0.1:39385 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:28.662173+00:00 INFO 66: Client 127.0.0.1:40109 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:29.165051+00:00 INFO 66: Client 127.0.0.1:47431 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:29.668009+00:00 INFO 66: Client 127.0.0.1:58973 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:30.171277+00:00 INFO 66: Client 127.0.0.1:52583 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:30.674495+00:00 INFO 66: Client 127.0.0.1:44109 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:31.176966+00:00 INFO 66: Client 127.0.0.1:47817 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:31.679909+00:00 INFO 66: Client 127.0.0.1:33639 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:32.184167+00:00 INFO 66: Client 127.0.0.1:55185 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:32.687876+00:00 INFO 66: Client 127.0.0.1:43797 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:33.191735+00:00 INFO 66: Client 127.0.0.1:60355 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:33.694790+00:00 INFO 66: Client 127.0.0.1:48927 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:34.196791+00:00 INFO 66: Client 127.0.0.1:46617 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:34.698948+00:00 INFO 66: Client 127.0.0.1:54845 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:35.201663+00:00 INFO 59: Client 127.0.0.1:40619 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:35.704359+00:00 INFO 66: Client 127.0.0.1:49033 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:36.206665+00:00 INFO 66: Client 127.0.0.1:40427 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:36.709754+00:00 INFO 66: Client 127.0.0.1:55951 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:36.721637+00:00 INFO 66: Client 127.0.0.1:37521 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:37.226407+00:00 INFO 66: Client 127.0.0.1:34859 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:37.732135+00:00 INFO 66: Client 127.0.0.1:49233 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:38.235979+00:00 INFO 66: Client 127.0.0.1:54595 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:38.738953+00:00 INFO 66: Client 127.0.0.1:35965 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:39.241440+00:00 INFO 66: Client 127.0.0.1:58257 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:39.743623+00:00 INFO 66: Client 127.0.0.1:57423 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:40.245610+00:00 INFO 66: Client 127.0.0.1:51531 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:40.747844+00:00 INFO 66: Client 127.0.0.1:38257 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:41.249695+00:00 INFO 66: Client 127.0.0.1:60365 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:41.752129+00:00 INFO 59: Client 127.0.0.1:46661 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:42.255191+00:00 INFO 66: Client 127.0.0.1:46771 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:42.757875+00:00 INFO 66: Client 127.0.0.1:49163 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:43.259470+00:00 INFO 66: Client 127.0.0.1:33071 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:43.761501+00:00 INFO 66: Client 127.0.0.1:41331 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:44.263618+00:00 INFO 66: Client 127.0.0.1:33185 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:44.765479+00:00 INFO 66: Client 127.0.0.1:40433 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:45.267516+00:00 INFO 66: Client 127.0.0.1:45889 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:45.769504+00:00 INFO 66: Client 127.0.0.1:40375 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:46.271588+00:00 INFO 66: Client 127.0.0.1:44857 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:46.773976+00:00 INFO 59: Client 127.0.0.1:33587 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:46.779724+00:00 INFO 66: Client 127.0.0.1:57529 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:47.281751+00:00 INFO 66: Client 127.0.0.1:53209 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:47.784157+00:00 INFO 66: Client 127.0.0.1:38197 authenticated as <ud>@ns_server</ud>
+2019-12-02T14:05:48.286433+00:00 INFO 66: Client 127.0.0.1:51113 authenticated as <ud>@ns_server</ud>
