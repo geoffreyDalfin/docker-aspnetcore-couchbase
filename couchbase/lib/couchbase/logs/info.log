@@ -61053,3 +61053,105 @@ Runtime info: [{otp_release,"R16B03-1"},
 [ns_server:info,2019-12-02T15:33:09.595Z,ns_1@127.0.0.1:<0.17212.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
 [{database_fragmentation_threshold,{30,undefined}},
  {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:33:33.337Z,ns_1@127.0.0.1:<0.18311.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:33:39.600Z,ns_1@127.0.0.1:<0.18635.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:34:03.344Z,ns_1@127.0.0.1:<0.19746.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:34:09.606Z,ns_1@127.0.0.1:<0.20073.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:34:33.351Z,ns_1@127.0.0.1:<0.21182.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:34:39.611Z,ns_1@127.0.0.1:<0.21511.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:35:03.364Z,ns_1@127.0.0.1:<0.22634.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:35:09.617Z,ns_1@127.0.0.1:<0.22964.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:35:33.371Z,ns_1@127.0.0.1:<0.24071.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:35:39.621Z,ns_1@127.0.0.1:<0.24398.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:36:03.381Z,ns_1@127.0.0.1:<0.25509.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:36:09.624Z,ns_1@127.0.0.1:<0.25839.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:36:33.386Z,ns_1@127.0.0.1:<0.26946.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:36:39.629Z,ns_1@127.0.0.1:<0.27276.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:37:03.392Z,ns_1@127.0.0.1:<0.28397.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:37:09.633Z,ns_1@127.0.0.1:<0.28728.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:37:33.400Z,ns_1@127.0.0.1:<0.29837.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:37:39.638Z,ns_1@127.0.0.1:<0.30165.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:38:03.410Z,ns_1@127.0.0.1:<0.31262.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:38:09.643Z,ns_1@127.0.0.1:<0.31605.1>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:38:33.421Z,ns_1@127.0.0.1:<0.32700.1>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:38:39.648Z,ns_1@127.0.0.1:<0.267.2>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:39:03.429Z,ns_1@127.0.0.1:<0.1387.2>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:39:09.655Z,ns_1@127.0.0.1:<0.1712.2>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:39:33.439Z,ns_1@127.0.0.1:<0.2824.2>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:39:39.658Z,ns_1@127.0.0.1:<0.3150.2>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:40:03.448Z,ns_1@127.0.0.1:<0.4262.2>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:40:09.667Z,ns_1@127.0.0.1:<0.4589.2>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:40:33.465Z,ns_1@127.0.0.1:<0.5700.2>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:40:39.673Z,ns_1@127.0.0.1:<0.6024.2>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:41:03.479Z,ns_1@127.0.0.1:<0.7152.2>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:41:09.689Z,ns_1@127.0.0.1:<0.7478.2>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:41:33.484Z,ns_1@127.0.0.1:<0.8590.2>:compaction_new_daemon:spawn_scheduled_views_compactor:497]Start compaction of indexes for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]
+[ns_server:info,2019-12-02T15:41:39.694Z,ns_1@127.0.0.1:<0.8916.2>:compaction_new_daemon:spawn_scheduled_kv_compactor:471]Start compaction of vbuckets for bucket jul with config: 
+[{database_fragmentation_threshold,{30,undefined}},
+ {view_fragmentation_threshold,{30,undefined}}]

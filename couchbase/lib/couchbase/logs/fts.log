@@ -1535,3 +1535,37 @@
     "tot_remote_http2": 0,
     "total_gc": 52
 }
+2019-12-02T15:36:04.996+00:00 [INFO] managerStats: {"feeds":{},"pindexes":{},"manager":{"TotKick":0,"TotSetOptions":0,"TotRegisterFeed":0,"TotUnregisterFeed":0,"TotRegisterPIndex":0,"TotUnregisterPIndex":0,"TotSaveNodeDef":2,"TotSaveNodeDefNil":0,"TotSaveNodeDefGetErr":0,"TotSaveNodeDefSetErr":0,"TotSaveNodeDefRetry":0,"TotSaveNodeDefSame":2,"TotSaveNodeDefOk":2,"TotCreateIndex":0,"TotCreateIndexOk":0,"TotDeleteIndex":0,"TotDeleteIndexOk":0,"TotIndexControl":0,"TotIndexControlOk":0,"TotDeleteIndexBySource":0,"TotDeleteIndexBySourceErr":0,"TotDeleteIndexBySourceOk":0,"TotPlannerOpStart":0,"TotPlannerOpRes":0,"TotPlannerOpErr":0,"TotPlannerOpDone":0,"TotPlannerNOOP":0,"TotPlannerNOOPOk":0,"TotPlannerKick":0,"TotPlannerKickStart":0,"TotPlannerKickChanged":0,"TotPlannerKickErr":0,"TotPlannerKickOk":0,"TotPlannerUnknownErr":0,"TotPlannerSubscriptionEvent":0,"TotPlannerStop":0,"TotJanitorOpStart":2,"TotJanitorOpRes":2,"TotJanitorOpErr":2,"TotJanitorOpDone":2,"TotJanitorNOOP":0,"TotJanitorNOOPOk":0,"TotJanitorKick":2,"TotJanitorKickStart":2,"TotJanitorKickErr":2,"TotJanitorKickOk":0,"TotJanitorClosePIndex":0,"TotJanitorRemovePIndex":0,"TotJanitorRestartPIndex":0,"TotJanitorLoadDataDir":0,"TotJanitorUnknownErr":0,"TotJanitorSubscriptionEvent":1,"TotJanitorStop":0,"TotRefreshLastNodeDefs":2,"TotRefreshLastIndexDefs":1201,"TotRefreshLastPlanPIndexes":0}}
+2019-12-02T15:36:04.997+00:00 [INFO] stats: {
+    "batch_bytes_added": 0,
+    "batch_bytes_removed": 0,
+    "num_bytes_used_ram": 9050360,
+    "pct_cpu_gc": 0.000041496692628885775,
+    "tot_batches_flushed_on_maxops": 0,
+    "tot_batches_flushed_on_timer": 0,
+    "tot_http_limitlisteners_closed": 0,
+    "tot_http_limitlisteners_opened": 1,
+    "tot_https_limitlisteners_closed": 0,
+    "tot_https_limitlisteners_opened": 1,
+    "tot_queryreject_on_memquota": 0,
+    "tot_remote_http": 0,
+    "tot_remote_http2": 0,
+    "total_gc": 69
+}
+2019-12-02T15:41:04.999+00:00 [INFO] managerStats: {"feeds":{},"pindexes":{},"manager":{"TotKick":0,"TotSetOptions":0,"TotRegisterFeed":0,"TotUnregisterFeed":0,"TotRegisterPIndex":0,"TotUnregisterPIndex":0,"TotSaveNodeDef":2,"TotSaveNodeDefNil":0,"TotSaveNodeDefGetErr":0,"TotSaveNodeDefSetErr":0,"TotSaveNodeDefRetry":0,"TotSaveNodeDefSame":2,"TotSaveNodeDefOk":2,"TotCreateIndex":0,"TotCreateIndexOk":0,"TotDeleteIndex":0,"TotDeleteIndexOk":0,"TotIndexControl":0,"TotIndexControlOk":0,"TotDeleteIndexBySource":0,"TotDeleteIndexBySourceErr":0,"TotDeleteIndexBySourceOk":0,"TotPlannerOpStart":0,"TotPlannerOpRes":0,"TotPlannerOpErr":0,"TotPlannerOpDone":0,"TotPlannerNOOP":0,"TotPlannerNOOPOk":0,"TotPlannerKick":0,"TotPlannerKickStart":0,"TotPlannerKickChanged":0,"TotPlannerKickErr":0,"TotPlannerKickOk":0,"TotPlannerUnknownErr":0,"TotPlannerSubscriptionEvent":0,"TotPlannerStop":0,"TotJanitorOpStart":2,"TotJanitorOpRes":2,"TotJanitorOpErr":2,"TotJanitorOpDone":2,"TotJanitorNOOP":0,"TotJanitorNOOPOk":0,"TotJanitorKick":2,"TotJanitorKickStart":2,"TotJanitorKickErr":2,"TotJanitorKickOk":0,"TotJanitorClosePIndex":0,"TotJanitorRemovePIndex":0,"TotJanitorRestartPIndex":0,"TotJanitorLoadDataDir":0,"TotJanitorUnknownErr":0,"TotJanitorSubscriptionEvent":1,"TotJanitorStop":0,"TotRefreshLastNodeDefs":2,"TotRefreshLastIndexDefs":1501,"TotRefreshLastPlanPIndexes":0}}
+2019-12-02T15:41:04.999+00:00 [INFO] stats: {
+    "batch_bytes_added": 0,
+    "batch_bytes_removed": 0,
+    "num_bytes_used_ram": 9050360,
+    "pct_cpu_gc": 0.00004118061096138997,
+    "tot_batches_flushed_on_maxops": 0,
+    "tot_batches_flushed_on_timer": 0,
+    "tot_http_limitlisteners_closed": 0,
+    "tot_http_limitlisteners_opened": 1,
+    "tot_https_limitlisteners_closed": 0,
+    "tot_https_limitlisteners_opened": 1,
+    "tot_queryreject_on_memquota": 0,
+    "tot_remote_http": 0,
+    "tot_remote_http2": 0,
+    "total_gc": 87
+}

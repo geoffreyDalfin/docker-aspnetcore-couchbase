@@ -2541,3 +2541,154 @@
 2019-12-02T15:33:04.493+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
 2019-12-02T15:33:05.823+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
 2019-12-02T15:33:12.823+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:33:19.788+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:33:26.788+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:33:33.790+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:33:34.457+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:33:34.458+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:33:34.460+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:33:34.462+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:33:40.790+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:33:47.791+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:33:54.756+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:01.757+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:04.224+00:00 [Info] {"allocated":2034304,"heap_allocated":2034304,"heap_idle":1769472,"heap_in_use":3604480,"heap_objects":17138,"heap_os_related":0,"heap_system":5373952,"last_gc_cycle":"2019-12-02 15:33:44.249062 +0000 UTC","memory_allocations":317373,"memory_frees":300235,"next_gc_cycle":"4ms","num_gc":21,"stack_cache_in_use":6944,"stack_in_use":917504,"stack_span_in_use":62776,"stack_system":917504,"total_allocated":51897984}
+2019-12-02T15:34:04.425+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:34:04.427+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:34:04.429+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:34:04.430+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:34:08.759+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:15.761+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:22.726+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:29.728+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:34.394+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:34:34.395+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:34:34.395+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:34:34.398+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:34:36.729+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:43.729+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:50.694+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:34:57.694+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:35:04.153+00:00 [Info] {"allocated":2271688,"heap_allocated":2271688,"heap_idle":1654784,"heap_in_use":3719168,"heap_objects":18275,"heap_os_related":0,"heap_system":5373952,"last_gc_cycle":"2019-12-02 15:34:39.3363589 +0000 UTC","memory_allocations":331495,"memory_frees":313220,"next_gc_cycle":"4ms","num_gc":22,"stack_cache_in_use":6944,"stack_in_use":917504,"stack_span_in_use":60800,"stack_system":917504,"total_allocated":54565328}
+2019-12-02T15:35:04.360+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:35:04.361+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:35:04.362+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:35:04.363+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:35:04.696+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:35:11.696+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:35:18.662+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:35:25.664+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:35:32.665+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:35:34.328+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:35:34.328+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:35:34.330+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:35:34.331+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:35:39.666+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:35:46.667+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:35:53.632+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:00.633+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:04.082+00:00 [Info] {"allocated":2401904,"heap_allocated":2401904,"heap_idle":1548288,"heap_in_use":3825664,"heap_objects":19217,"heap_os_related":0,"heap_system":5373952,"last_gc_cycle":"2019-12-02 15:35:34.4101282 +0000 UTC","memory_allocations":345663,"memory_frees":326446,"next_gc_cycle":"4ms","num_gc":23,"stack_cache_in_use":6944,"stack_in_use":917504,"stack_span_in_use":61104,"stack_system":917504,"total_allocated":57241600}
+2019-12-02T15:36:04.295+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:36:04.296+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:36:04.297+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:36:04.297+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:36:07.633+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:14.634+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:21.599+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:28.600+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:34.263+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:36:34.263+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:36:34.265+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:36:34.266+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:36:35.601+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:42.602+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:49.568+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:36:56.570+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:03.571+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:04.011+00:00 [Info] {"allocated":2799448,"heap_allocated":2799448,"heap_idle":1228800,"heap_in_use":4145152,"heap_objects":21256,"heap_os_related":0,"heap_system":5373952,"last_gc_cycle":"2019-12-02 15:36:24.4716536 +0000 UTC","memory_allocations":359835,"memory_frees":338579,"next_gc_cycle":"4ms","num_gc":24,"stack_cache_in_use":6944,"stack_in_use":917504,"stack_span_in_use":62168,"stack_system":917504,"total_allocated":59915088}
+2019-12-02T15:37:04.230+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:37:04.231+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:37:04.232+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:37:04.233+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:37:10.572+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:17.573+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:24.538+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:31.540+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:34.196+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:37:34.197+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:37:34.198+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:37:34.200+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:37:38.543+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:45.545+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:52.510+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:37:59.511+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:38:03.940+00:00 [Info] {"allocated":2973520,"heap_allocated":2973520,"heap_idle":1048576,"heap_in_use":4325376,"heap_objects":21744,"heap_os_related":0,"heap_system":5373952,"last_gc_cycle":"2019-12-02 15:37:23.0025841 +0000 UTC","memory_allocations":373870,"memory_frees":352126,"next_gc_cycle":"4ms","num_gc":25,"stack_cache_in_use":6944,"stack_in_use":917504,"stack_span_in_use":63992,"stack_system":917504,"total_allocated":62576760}
+2019-12-02T15:38:04.162+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:38:04.164+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:38:04.166+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:38:04.169+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:38:06.512+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:38:13.514+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:38:20.480+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:38:27.480+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:38:34.131+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:38:34.133+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:38:34.134+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:38:34.134+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:38:34.481+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:38:41.484+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:38:48.450+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:38:55.451+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:02.452+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:03.869+00:00 [Info] {"allocated":3192792,"heap_allocated":3192792,"heap_idle":860160,"heap_in_use":4513792,"heap_objects":22759,"heap_os_related":0,"heap_system":5373952,"last_gc_cycle":"2019-12-02 15:38:18.9719477 +0000 UTC","memory_allocations":388010,"memory_frees":365251,"next_gc_cycle":"4ms","num_gc":26,"stack_cache_in_use":6944,"stack_in_use":917504,"stack_span_in_use":65512,"stack_system":917504,"total_allocated":65244968}
+2019-12-02T15:39:04.098+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:39:04.099+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:39:04.100+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:39:04.101+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:39:09.453+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:16.455+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:23.422+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:30.424+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:34.065+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:39:34.066+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:39:34.070+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:39:34.070+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:39:37.424+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:44.425+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:51.391+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:39:58.393+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:40:03.799+00:00 [Info] {"allocated":3334032,"heap_allocated":3334032,"heap_idle":761856,"heap_in_use":4612096,"heap_objects":23442,"heap_os_related":0,"heap_system":5373952,"last_gc_cycle":"2019-12-02 15:39:14.7012683 +0000 UTC","memory_allocations":402137,"memory_frees":378695,"next_gc_cycle":"4ms","num_gc":27,"stack_cache_in_use":6944,"stack_in_use":917504,"stack_span_in_use":66576,"stack_system":917504,"total_allocated":67912056}
+2019-12-02T15:40:04.035+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:40:04.035+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:40:04.042+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:40:04.043+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:40:05.394+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:40:12.395+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:40:19.361+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:40:26.362+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:40:33.363+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:40:34.007+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:40:34.008+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:40:34.012+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:40:34.013+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:40:40.363+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:40:47.364+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:40:54.329+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:01.330+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:03.727+00:00 [Info] {"allocated":3512792,"heap_allocated":3512792,"heap_idle":573440,"heap_in_use":4800512,"heap_objects":24464,"heap_os_related":311296,"heap_system":5373952,"last_gc_cycle":"2019-12-02 15:40:09.7784986 +0000 UTC","memory_allocations":416262,"memory_frees":391798,"next_gc_cycle":"4ms","num_gc":28,"stack_cache_in_use":6944,"stack_in_use":917504,"stack_span_in_use":68552,"stack_system":917504,"total_allocated":70577768}
+2019-12-02T15:41:03.977+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:41:03.978+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:41:03.980+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:41:03.981+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:41:08.331+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:15.332+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:22.298+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:29.300+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:33.946+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision(nil)
+2019-12-02T15:41:33.946+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision(nil)
+2019-12-02T15:41:33.948+00:00 [Info] ServiceMgr::GetCurrentTopology rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:41:33.949+00:00 [Info] ServiceMgr::GetTaskList rev: service.Revision{0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+2019-12-02T15:41:36.301+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:43.303+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:50.268+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}
+2019-12-02T15:41:57.269+00:00 [Info] SuperSupervisor::RebalanceStatus [0] Rebalance status from all running applications: map[string]bool{}

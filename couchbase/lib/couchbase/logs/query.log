@@ -1602,3 +1602,75 @@ _time=2019-12-02T15:17:19.555+00:00 _level=INFO _msg=Created New Bucket jul
 2019-12-02T15:32:18.641+00:00 [Info] num concurrent scans {0}
 2019-12-02T15:32:18.641+00:00 [Info] average scan response {0 ms}
 2019-12-02T15:32:19.647+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:33:18.558+00:00 [Info] connected with 1 indexers
+2019-12-02T15:33:18.558+00:00 [Info] client load stats {}
+2019-12-02T15:33:18.558+00:00 [Info] client hit stats {}
+2019-12-02T15:33:18.558+00:00 [Info] client pending item stats {}
+2019-12-02T15:33:18.558+00:00 [Info] client stats current {}
+2019-12-02T15:33:18.570+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:33:18.570+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:33:19.634+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:34:18.487+00:00 [Info] connected with 1 indexers
+2019-12-02T15:34:18.487+00:00 [Info] client load stats {}
+2019-12-02T15:34:18.487+00:00 [Info] client hit stats {}
+2019-12-02T15:34:18.487+00:00 [Info] client pending item stats {}
+2019-12-02T15:34:18.487+00:00 [Info] client stats current {}
+2019-12-02T15:34:18.500+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:34:18.500+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:34:19.642+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:35:18.415+00:00 [Info] connected with 1 indexers
+2019-12-02T15:35:18.415+00:00 [Info] client load stats {}
+2019-12-02T15:35:18.415+00:00 [Info] client hit stats {}
+2019-12-02T15:35:18.415+00:00 [Info] client pending item stats {}
+2019-12-02T15:35:18.415+00:00 [Info] client stats current {}
+2019-12-02T15:35:18.428+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:35:18.428+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:35:19.638+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:36:18.379+00:00 [Info] connected with 1 indexers
+2019-12-02T15:36:18.380+00:00 [Info] client load stats {}
+2019-12-02T15:36:18.380+00:00 [Info] client hit stats {}
+2019-12-02T15:36:18.380+00:00 [Info] client pending item stats {}
+2019-12-02T15:36:18.380+00:00 [Info] client stats current {}
+2019-12-02T15:36:18.357+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:36:18.357+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:36:19.610+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:37:18.308+00:00 [Info] connected with 1 indexers
+2019-12-02T15:37:18.308+00:00 [Info] client load stats {}
+2019-12-02T15:37:18.308+00:00 [Info] client hit stats {}
+2019-12-02T15:37:18.308+00:00 [Info] client pending item stats {}
+2019-12-02T15:37:18.308+00:00 [Info] client stats current {}
+2019-12-02T15:37:18.286+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:37:18.286+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:37:19.594+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:38:18.237+00:00 [Info] connected with 1 indexers
+2019-12-02T15:38:18.237+00:00 [Info] client load stats {}
+2019-12-02T15:38:18.237+00:00 [Info] client hit stats {}
+2019-12-02T15:38:18.237+00:00 [Info] client pending item stats {}
+2019-12-02T15:38:18.237+00:00 [Info] client stats current {}
+2019-12-02T15:38:18.250+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:38:18.250+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:38:19.579+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:39:18.166+00:00 [Info] connected with 1 indexers
+2019-12-02T15:39:18.166+00:00 [Info] client load stats {}
+2019-12-02T15:39:18.166+00:00 [Info] client hit stats {}
+2019-12-02T15:39:18.166+00:00 [Info] client pending item stats {}
+2019-12-02T15:39:18.166+00:00 [Info] client stats current {}
+2019-12-02T15:39:18.179+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:39:18.179+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:39:19.564+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:40:18.095+00:00 [Info] connected with 1 indexers
+2019-12-02T15:40:18.095+00:00 [Info] client load stats {}
+2019-12-02T15:40:18.095+00:00 [Info] client hit stats {}
+2019-12-02T15:40:18.095+00:00 [Info] client pending item stats {}
+2019-12-02T15:40:18.095+00:00 [Info] client stats current {}
+2019-12-02T15:40:18.108+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:40:18.108+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:40:19.555+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
+2019-12-02T15:41:18.024+00:00 [Info] connected with 1 indexers
+2019-12-02T15:41:18.024+00:00 [Info] client load stats {}
+2019-12-02T15:41:18.024+00:00 [Info] client hit stats {}
+2019-12-02T15:41:18.024+00:00 [Info] client pending item stats {}
+2019-12-02T15:41:18.024+00:00 [Info] client stats current {}
+2019-12-02T15:41:18.037+00:00 [Info] num concurrent scans {0}
+2019-12-02T15:41:18.037+00:00 [Info] average scan response {0 ms}
+2019-12-02T15:41:19.549+00:00 [Info] [Queryport-connpool:127.0.0.1:9101] active conns 0, free conns 1
