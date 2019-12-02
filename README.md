@@ -27,6 +27,6 @@ Set Password : password
 
 Click on "Finish Default" button.
 
-Finally, click on "ADD BUCKET" and Set Bucket name : Jul
+Finally, click on "ADD BUCKET" and set Bucket name : Jul
 
 After creating your cluster, launch in your favourite browser  :  http://localhost:5000/WeatherForecast
