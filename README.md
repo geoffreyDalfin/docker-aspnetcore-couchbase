@@ -1,6 +1,6 @@
 # docker-core-couchbase
 
-Testing microservice with asp net core and couchbase in docker-compose container
+Testing service with asp net core and couchbase in docker-compose container
 
 ### Installing
 
